@@ -5,10 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/j.perrochaud/Documents/Unreal Projects/Platformer/Boo_Project/Content/Blueprints/BP_Player.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_MoveForward.uasset",
-				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_MoveLR.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/BP_Player.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IM_PlayerController.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/BP_GameMode.uasset",
@@ -159,7 +157,29 @@
 				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/NewMap.umap",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_Jump.uasset",
-				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_Mouse.uasset"
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_Mouse.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Player/BP_Player.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Player/IA_Jump.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Player/IA_Mouse.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Player/IA_MoveForward.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Player/IM_PlayerController.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BT_EnemyAI.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BT_Enemy.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BP_EnemyAI2.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BP_EnemyAI.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BP_Enemy.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BB_Enemy.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/Enemies/BTTask_SetLocationVal.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/0/RL/5L4KKGHZR0ZIAZML53OJ8M.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/D/F1/37E5L9NMPXSJVX42L4IPFE.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/D/86/M2DJK3ZVH2XA1JU459WTQE.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalObjects__/NewMap/A/L8/B9T0B1ZGAES4IYMHTA5432.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/C/DY/2FWPOU534S3PM98WOW92QM.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/0/P5/22UZCSOESCIE4ALF6VEK24.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/7/J6/W5P5H7LLWUGHE78FANKCBB.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/9/77/UUJ4NPFU7S8I5PC4WMKFJB.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/__ExternalActors__/NewMap/B/JI/MLYTV4DAEVTXAFJAVOK8ZE.uasset",
+				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_MoveLR.uasset"
 			]
 		}
 	]
