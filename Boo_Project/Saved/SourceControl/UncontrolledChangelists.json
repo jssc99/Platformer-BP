@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/j.perrochaud/Documents/Unreal Projects/Platformer/Boo_Project/Content/Blueprints/BP_Player.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_MoveForward.uasset",
 				"C:/dev/UE_project/Boo_Project/Content/Blueprints/IA_MoveLR.uasset",
