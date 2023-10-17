@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dev/UE_project/MyProject_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/Q1/TFOIG45FJ9OUY73A4VYU8C.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/P3/LDBCVB2SPEDGFQCB55MVH2.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/dev/UE_project/MyProject_01/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/Blueprints/BP_Player.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/Blueprints/IA_Test.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/Player/BP_Player.uasset",
+				"C:/dev/UE_project/MyProject_01/Content/Blueprints/Player/BP_Player.uasset"
+			]
+		}
+	]
+}
