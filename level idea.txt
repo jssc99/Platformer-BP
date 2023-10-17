@@ -10,12 +10,9 @@ Enemies:
 -Normal enemy
 -Boss
 
-Weapon:
--Gun
--Sword
-
 Player:
 -Life
 -Movespeed
 -Damage
 -Dash
+-Jump(to kill enemy)
