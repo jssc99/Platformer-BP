@@ -2,6 +2,7 @@ traps:
 -Fire trap
 -Arrow trap
 -Rock trap
+-Bumper
 
 Enemies:
 -Stronger enemy
@@ -17,3 +18,4 @@ Player:
 -Life
 -Movespeed
 -Damage
+-Dash
