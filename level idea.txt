@@ -1,0 +1,19 @@
+traps:
+-Fire trap
+-Arrow trap
+-Rock trap
+
+Enemies:
+-Stronger enemy
+-Faster enemy
+-Normal enemy
+-Boss
+
+Weapon:
+-Gun
+-Sword
+
+Player:
+-Life
+-Movespeed
+-Damage
