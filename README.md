@@ -31,8 +31,9 @@ AI enemies feature basic AI logic, allowing them to patrol automatically and giv
 
 
 ### Difficulties and bugs encountered
-    Blueprint functions can be challenging to remember, and converting certain variables may not be very convenient. Some variable and function calls are not very intuitive.
+
+Blueprint functions can be challenging to remember, and converting certain variables may not be very convenient. Some variable and function calls are not very intuitive.
 
 ### Sentiments
 
-    This project was quite enjoyable, and it provided a great learning experience in using Blueprints for visual programming. The rendering and shaders in Unreal Engine 5 are exceptionally beautiful.
+This project was quite enjoyable, and it provided a great learning experience in using Blueprints for visual programming. The rendering and shaders in Unreal Engine 5 are exceptionally beautiful.
